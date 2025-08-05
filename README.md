@@ -1,13 +1,17 @@
 
-# 🚀 Skiper-UI
+<h1 align="center">🚀 Skiper-UI</h1>
 
-A modern **UI components project** inspired by Skiper, built using **Next.js 15**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.  
-This project contains reusable, responsive, and animated components designed for seamless integration in modern web apps.
+<p align="center">
+A modern <b>UI Components Project</b> inspired by Skiper, built with <b>Next.js 15</b>, <b>TypeScript</b>, <b>Tailwind CSS</b>, and <b>Framer Motion</b>.  
+<br/>
+Fully responsive • Reusable • Animated Components
+</p>
 
 ---
 
-## 🌐 Live Demo
-[Live Site](https://skiper-ui.vercel.app/) *(Add link if deployed)*
+<p align="center">
+  🌐 <a href="https://skiper-ui.vercel.app/" target="_blank"><b>Live Demo</b></a>
+</p>
 
 ---
 
@@ -32,20 +36,44 @@ skiper-UI/
 ---
 
 ## 🛠️ Tech Stack
-- **Next.js 15** – App directory & optimized build  
-- **TypeScript** – Type safety  
-- **Tailwind CSS** – Utility-first CSS framework  
-- **Framer Motion** – Animations and transitions  
-- **shadcn/ui** – Component base styling  
+- ⚡ **Next.js 15** – App directory & optimized build  
+- 📜 **TypeScript** – Type safety  
+- 🎨 **Tailwind CSS** – Utility-first CSS framework  
+- 🎥 **Framer Motion** – Smooth animations and transitions  
+- 🧩 **shadcn/ui** – Component styling base  
 
 ---
 
-## ⚡ Features
-- Responsive hero section with animations  
-- Dark/Light theme toggle  
-- Skiper-style reusable UI components  
-- Badge, Card, Theme Toggle, Minimal Card, Animated Buttons  
-- Smooth scroll and responsive layouts  
+## ✨ Features
+- 🎯 Responsive Hero Section with animations  
+- 🌓 Dark/Light theme toggle  
+- 🃏 Skiper-style reusable UI components  
+- 🎨 Badge, Card, Theme Toggle, Minimal Card, Animated Buttons  
+- 🔄 Smooth scroll & responsive layouts  
+
+---
+
+## 🎥 Component Showcase  
+
+<p align="center"><b>✨ Hero Section</b></p>  
+<p align="center">
+  <img src="https://github.com/Tusharxhub/skiper-UI/assets/hero-preview.gif" width="800"/>
+</p>
+
+<p align="center"><b>🎖️ Badge Button</b></p>  
+<p align="center">
+  <img src="https://github.com/Tusharxhub/skiper-UI/assets/badge-button.gif" width="400"/>
+</p>
+
+<p align="center"><b>🌓 Theme Toggle</b></p>  
+<p align="center">
+  <img src="https://github.com/Tusharxhub/skiper-UI/assets/theme-toggle.gif" width="400"/>
+</p>
+
+<p align="center"><b>🃏 Minimal Card</b></p>  
+<p align="center">
+  <img src="https://github.com/Tusharxhub/skiper-UI/assets/minimal-card.gif" width="400"/>
+</p>
 
 ---
 
@@ -61,7 +89,6 @@ cd skiper-UI
 
 ```bash
 npm install
-# or yarn install / pnpm install
 ```
 
 ### 3️⃣ Run the Development Server
@@ -85,17 +112,12 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📌 Notes
+<h2 align="center">📧 Contact</h2>
 
-* Replace `<img>` tags with Next.js `<Image>` component for optimization.
-* Ensure all TypeScript props have proper types (e.g. `children: ReactNode`) to avoid build errors on Vercel.
-
----
-
-## 📧 Contact
-
-📧 [*Email*](mailto:t.k.d.dey2033929837@gmail.com)
-🔗 [*GitHub*](https://github.com/Tusharxhub)
-📸 [*Instagram*](https://www.instagram.com/tushardevx01/)
+<p align="center">
+📧 <a href="mailto:t.k.d.dey2033929837@gmail.com">Email</a> • 
+🔗 <a href="https://github.com/Tusharxhub">GitHub</a> • 
+📸 <a href="https://www.instagram.com/tushardevx01/">Instagram</a>
+</p>
 
 
